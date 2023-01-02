@@ -166,7 +166,8 @@ table {
   .date-filter {
     display: flex;
     align-items: center;
-    margin-left: 28%;
+    margin-left: 27%;
+    width: 50%;
   }
   
   .date-filter label {
@@ -175,7 +176,7 @@ table {
   }
   
   .date-filter input[type="date"] {
-    width: 150px;
+    width: 23%;
   }
   
   .date-filter button {
@@ -185,7 +186,7 @@ table {
     padding: 10px 20px;
     cursor: pointer;
     font-size: 16px;
-    margin-left: 10px;
+    margin-left: 2%;
   }
   
   .date-filter button:hover {
